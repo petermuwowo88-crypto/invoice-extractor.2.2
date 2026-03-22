@@ -1,0 +1,12 @@
+pdf2image
+pytesseract
+Pillow
+pandas
+opencv-python
+numpy
+openpyxl
+pdfplumber
+python-dateutil
+nuitka
+ordered-set
+zstandard

@@ -2,7 +2,7 @@ pdf2image
 pytesseract
 Pillow
 pandas
-opencv-python
+opencv-python-headless
 numpy
 openpyxl
 pdfplumber
